@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <h1>Hello World</h1> <!-- The h1 tag is a heading element -->
+
+    <!-- Hello This Is A Comment!! Now Let's dicuss about different types of Headers -->
+
+    <h2>This is a subheading</h2> <!-- The h2 tag is a subheading element -->
+
+    <h3>This is a smaller subheading</h3> <!-- The h3 tag is an even smaller subheading element -->
+
+    <h4>This is an even smaller subheading</h4> <!-- The h4 tag is an even smaller subheading element -->
+
+    <h5>This is an even smaller subheading</h5> <!-- The h5 tag is an even smaller subheading element -->
+
+    <h6>This is the smallest subheading</h6> <!-- The h6 tag is the smallest subheading element --> 
+
+    <a href="https://www.google.com">This is a link to Google</a> <!-- The a tag is an anchor element used to create hyperlinks -->
+    
+    <br> <!-- The br tag is used to insert a line break -->
+    <img src="C:\Users\bukka\cleaner\images\Virtually-Indistructable.png" alt="Example Image"> <!-- The img tag is used to embed images in the document -->
+
+    <ul> <!-- The ul tag is used to create an unordered list -->
+        <li>Item 1</li> <!-- The li tag is used to define a list item -->
+        <li>Item 2</li>
+        <li>Item 3</li>
+    </ul>
+
+    <ol type="a"> <!-- The ol tag is used to create an ordered list -->
+        <li>First Item</li>
+        <li>Second Item</li>
+        <li>Third Item</li>
+    </ol>
+
+    <ol type="A"> <!-- The ol tag is used to create an ordered list -->
+        <li>First Item</li>
+        <li>Second Item</li>
+        <li>Third Item</li>
+    </ol>
+
+    <ol type="i"> <!-- The ol tag is used to create an ordered list -->
+        <li>First Item</li>
+        <li>Second Item</li>
+        <li>Third Item</li>
+    </ol>
+
+    <ol type="I"> <!-- The ol tag is used to create an ordered list -->
+        <li>First Item</li>
+        <li>Second Item</li>
+        <li>Third Item</li>
+    </ol>
+
+    <ol type="1"> <!-- The ol tag is used to create an ordered list -->
+        <li>First Item</li>
+        <li>Second Item</li>
+        <li>Third Item</li>
+    </ol>
+
+    <ul> 
+        <li>Tops 
+            <ul> 
+                <li>T-Shirts</li> 
+                <li>Blouses</li> 
+            </ul> 
+        </li> 
+        <li>Bottoms</li> 
+    </ul><!-- This is a nested unordered list -->
+
+    <table>
+        <tr> <!-- The tr tag is used to define a table row -->
+            <th>Name</th> <!-- The th tag is used to define a table header -->
+            <th>Age</th>
+            <th>City</th>
+        </tr>
+        <tr>
+            <td>John Doe</td> <!-- The td tag is used to define a table cell -->
+            <td>30</td>
+            <td>New York</td>
+        </tr>
+        <tr><td>Jane Smith</td><td>25</td>
+            <td>Los Angeles</td>
+        </tr>
+        <tr>
+            <td>Thankappan Koshy</td>
+            <td>65</td>
+            <td>Vyttila</td>
+        </tr>
+
+    </table>
+
+    <form> <!-- The form tag is used to create an HTML form for user input -->
+        <label for="name">Name:</label> <!-- The label tag is used to define a label for an input element -->
+        <input type="text" id="name" name="name" placeholder="Enter your name"><br><br> <!-- The input tag is used to create an input field -->
+        
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email"><br><br>
+
+       
+        <label for="dept">Department</label>
+        
+        <select id="dept" name="dept"> 
+            <option value="FC">Fashion Communication</option> 
+            <option value="FD">Fashion Design</option> 
+            <option value="KD">Knitwear Design</option> 
+        </select>
+        <br><br>
+        <label for="dob">Date of Birth</label><br> 
+
+        <input type="date" id="dob" name="dob"><br><br> 
+
+        <label>Gender</label><br> 
+
+        <input type="radio" id="male" name="gender" value="male"> 
+
+        <label for="male">Male</label> 
+
+        <input type="radio" id="female" name="gender" value="female"> 
+
+        <label for="female">Female</label><br><br>
+
+    </form>
+
+    <label>Subjects</label><br> 
+
+    <input type="checkbox" id="geo" name="subj" value="GE-O"> 
+
+    <label for="geo">GE-O</label> 
+
+    <input type="checkbox" id="gem" name="subj" value="GE-M">
+
+    <label for="gem">GE-M</label><br><br> 
+
+    <input type="submit" value="Submit"> 
+    
+    <input type="reset" value="Clear">
+
+
+</body>
+</html>
+
+
