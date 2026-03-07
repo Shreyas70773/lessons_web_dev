@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 style="color: red; font-size: 3px; font-family: Arial, Helvetica, sans-serif;">My First Web Page</h1>
+    <h2 style="color: blue; font-size: 30px;">This is a simple web page.</h2>
+    <img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools Logo" style="width: 50px; height: 100px">
+
+    <p style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; ">This is a paragraph on the web page.</p>
+</body>
+</html>
