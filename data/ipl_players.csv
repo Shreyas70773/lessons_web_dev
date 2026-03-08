@@ -1,0 +1,21 @@
+name,team,role,matches,runs,batting_avg,wickets,bowling_avg
+Rohit Sharma,MI,Batsman,250,6500,45.2,15,42.0
+Virat Kohli,RCB,Batsman,240,7200,52.3,4,89.5
+MS Dhoni,CSK,Wicketkeeper,230,5100,38.7,0,0.0
+Jasprit Bumrah,MI,Bowler,130,120,8.5,180,22.4
+Ravindra Jadeja,CSK,Allrounder,210,2800,32.1,145,28.5
+Hardik Pandya,MI,Allrounder,150,2200,28.9,85,31.2
+Sunil Narine,KKR,Allrounder,180,950,12.4,175,24.8
+Andre Russell,KKR,Allrounder,120,2100,35.6,95,26.3
+Rishabh Pant,DC,Wicketkeeper,110,3200,42.8,0,0.0
+Shikhar Dhawan,PBKS,Batsman,220,6200,41.5,0,0.0
+Rashid Khan,SRH,Bowler,105,450,15.2,140,19.8
+David Warner,DC,Batsman,175,6000,44.8,2,55.0
+Kane Williamson,SRH,Batsman,80,2200,38.5,0,0.0
+KL Rahul,PBKS,Batsman,130,4500,48.9,0,0.0
+Yuzvendra Chahal,RR,Bowler,160,85,5.6,185,21.5
+Sanju Samson,RR,Wicketkeeper,145,3800,36.2,0,0.0
+Shreyas Iyer,KKR,Batsman,115,3100,40.5,3,48.0
+Mohammed Shami,PBKS,Bowler,95,180,9.5,120,25.8
+Quinton de Kock,MI,Wicketkeeper,90,2800,39.2,0,0.0
+Faf du Plessis,RCB,Batsman,110,2600,42.1,1,65.0

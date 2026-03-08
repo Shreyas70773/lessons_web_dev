@@ -1,0 +1,217 @@
+{
+  "match_info": {
+    "match_id": "IPL2025-FINAL",
+    "series": "Indian Premier League 2025",
+    "match_type": "Final",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "date": "2025-05-28",
+    "toss": {
+      "winner": "MI",
+      "decision": "bat"
+    },
+    "teams": {
+      "home": {
+        "name": "Mumbai Indians",
+        "short_name": "MI",
+        "captain": "Rohit Sharma"
+      },
+      "away": {
+        "name": "Chennai Super Kings",
+        "short_name": "CSK",
+        "captain": "MS Dhoni"
+      }
+    }
+  },
+  "innings": [
+    {
+      "batting_team": "MI",
+      "bowling_team": "CSK",
+      "total_runs": 192,
+      "wickets": 5,
+      "overs": 20.0,
+      "extras": 12,
+      "run_rate": 9.6,
+      "overs_detail": [
+        {"over": 1, "runs": 8, "wickets": 0, "bowler": "Deepak Chahar"},
+        {"over": 2, "runs": 12, "wickets": 0, "bowler": "Mukesh Choudhary"},
+        {"over": 3, "runs": 6, "wickets": 1, "bowler": "Deepak Chahar"},
+        {"over": 4, "runs": 14, "wickets": 0, "bowler": "Ravindra Jadeja"},
+        {"over": 5, "runs": 9, "wickets": 0, "bowler": "Moeen Ali"},
+        {"over": 6, "runs": 11, "wickets": 0, "bowler": "Ravindra Jadeja"},
+        {"over": 7, "runs": 7, "wickets": 1, "bowler": "Moeen Ali"},
+        {"over": 8, "runs": 15, "wickets": 0, "bowler": "Tushar Deshpande"},
+        {"over": 9, "runs": 8, "wickets": 0, "bowler": "Ravindra Jadeja"},
+        {"over": 10, "runs": 12, "wickets": 1, "bowler": "Moeen Ali"},
+        {"over": 11, "runs": 9, "wickets": 0, "bowler": "Tushar Deshpande"},
+        {"over": 12, "runs": 6, "wickets": 0, "bowler": "Deepak Chahar"},
+        {"over": 13, "runs": 13, "wickets": 0, "bowler": "Ravindra Jadeja"},
+        {"over": 14, "runs": 8, "wickets": 1, "bowler": "Tushar Deshpande"},
+        {"over": 15, "runs": 11, "wickets": 0, "bowler": "Deepak Chahar"},
+        {"over": 16, "runs": 7, "wickets": 0, "bowler": "Mukesh Choudhary"},
+        {"over": 17, "runs": 14, "wickets": 0, "bowler": "Tushar Deshpande"},
+        {"over": 18, "runs": 9, "wickets": 1, "bowler": "Deepak Chahar"},
+        {"over": 19, "runs": 8, "wickets": 0, "bowler": "Mukesh Choudhary"},
+        {"over": 20, "runs": 5, "wickets": 0, "bowler": "Tushar Deshpande"}
+      ]
+    },
+    {
+      "batting_team": "CSK",
+      "bowling_team": "MI",
+      "total_runs": 188,
+      "wickets": 7,
+      "overs": 20.0,
+      "extras": 8,
+      "run_rate": 9.4,
+      "overs_detail": [
+        {"over": 1, "runs": 10, "wickets": 0, "bowler": "Jasprit Bumrah"},
+        {"over": 2, "runs": 8, "wickets": 1, "bowler": "Trent Boult"},
+        {"over": 3, "runs": 12, "wickets": 0, "bowler": "Jasprit Bumrah"},
+        {"over": 4, "runs": 6, "wickets": 0, "bowler": "Piyush Chawla"},
+        {"over": 5, "runs": 11, "wickets": 1, "bowler": "Trent Boult"},
+        {"over": 6, "runs": 9, "wickets": 0, "bowler": "Hardik Pandya"},
+        {"over": 7, "runs": 14, "wickets": 0, "bowler": "Piyush Chawla"},
+        {"over": 8, "runs": 7, "wickets": 1, "bowler": "Jasprit Bumrah"},
+        {"over": 9, "runs": 10, "wickets": 0, "bowler": "Hardik Pandya"},
+        {"over": 10, "runs": 8, "wickets": 0, "bowler": "Piyush Chawla"},
+        {"over": 11, "runs": 13, "wickets": 1, "bowler": "Trent Boult"},
+        {"over": 12, "runs": 6, "wickets": 0, "bowler": "Jasprit Bumrah"},
+        {"over": 13, "runs": 9, "wickets": 0, "bowler": "Hardik Pandya"},
+        {"over": 14, "runs": 11, "wickets": 1, "bowler": "Piyush Chawla"},
+        {"over": 15, "runs": 8, "wickets": 0, "bowler": "Jasprit Bumrah"},
+        {"over": 16, "runs": 12, "wickets": 1, "bowler": "Trent Boult"},
+        {"over": 17, "runs": 7, "wickets": 0, "bowler": "Hardik Pandya"},
+        {"over": 18, "runs": 10, "wickets": 1, "bowler": "Jasprit Bumrah"},
+        {"over": 19, "runs": 9, "wickets": 0, "bowler": "Trent Boult"},
+        {"over": 20, "runs": 8, "wickets": 0, "bowler": "Jasprit Bumrah"}
+      ]
+    }
+  ],
+  "player_stats": [
+    {
+      "name": "Rohit Sharma",
+      "team": "MI",
+      "batting": {
+        "runs": 68,
+        "balls": 42,
+        "fours": 6,
+        "sixes": 3,
+        "strike_rate": 161.9,
+        "out": true,
+        "dismissal": "c Dhoni b Jadeja"
+      },
+      "bowling": null
+    },
+    {
+      "name": "Ishan Kishan",
+      "team": "MI",
+      "batting": {
+        "runs": 45,
+        "balls": 28,
+        "fours": 4,
+        "sixes": 2,
+        "strike_rate": 160.7,
+        "out": true,
+        "dismissal": "b Deepak Chahar"
+      },
+      "bowling": null
+    },
+    {
+      "name": "Suryakumar Yadav",
+      "team": "MI",
+      "batting": {
+        "runs": 52,
+        "balls": 31,
+        "fours": 5,
+        "sixes": 2,
+        "strike_rate": 167.7,
+        "out": false,
+        "dismissal": "not out"
+      },
+      "bowling": null
+    },
+    {
+      "name": "Hardik Pandya",
+      "team": "MI",
+      "batting": {
+        "runs": 18,
+        "balls": 12,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 150.0,
+        "out": true,
+        "dismissal": "c sub b Tushar"
+      },
+      "bowling": {
+        "overs": 4,
+        "runs": 36,
+        "wickets": 0,
+        "economy": 9.0
+      }
+    },
+    {
+      "name": "Jasprit Bumrah",
+      "team": "MI",
+      "batting": null,
+      "bowling": {
+        "overs": 4,
+        "runs": 24,
+        "wickets": 3,
+        "economy": 6.0,
+        "best_figures": "3/24"
+      }
+    },
+    {
+      "name": "Ruturaj Gaikwad",
+      "team": "CSK",
+      "batting": {
+        "runs": 72,
+        "balls": 48,
+        "fours": 8,
+        "sixes": 2,
+        "strike_rate": 150.0,
+        "out": true,
+        "dismissal": "c Kishan b Bumrah"
+      },
+      "bowling": null
+    },
+    {
+      "name": "MS Dhoni",
+      "team": "CSK",
+      "batting": {
+        "runs": 35,
+        "balls": 18,
+        "fours": 2,
+        "sixes": 3,
+        "strike_rate": 194.4,
+        "out": true,
+        "dismissal": "c Rohit b Boult"
+      },
+      "bowling": null
+    },
+    {
+      "name": "Ravindra Jadeja",
+      "team": "CSK",
+      "batting": {
+        "runs": 28,
+        "balls": 22,
+        "fours": 2,
+        "sixes": 1,
+        "strike_rate": 127.3,
+        "out": false,
+        "dismissal": "not out"
+      },
+      "bowling": {
+        "overs": 4,
+        "runs": 32,
+        "wickets": 1,
+        "economy": 8.0
+      }
+    }
+  ],
+  "result": {
+    "winner": "MI",
+    "margin": "4 runs",
+    "player_of_match": "Jasprit Bumrah",
+    "summary": "Mumbai Indians won by 4 runs in a thrilling IPL 2025 Final!"
+  }
+}

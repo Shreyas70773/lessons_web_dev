@@ -1,0 +1,16 @@
+match_id,team1,team2,team1_score,team2_score,winner,venue,date
+1,MI,CSK,185,182,MI,Wankhede Stadium,2025-04-01
+2,RCB,KKR,202,198,RCB,M. Chinnaswamy Stadium,2025-04-02
+3,DC,SRH,175,178,SRH,Arun Jaitley Stadium,2025-04-03
+4,PBKS,RR,168,172,RR,PCA Stadium Mohali,2025-04-04
+5,CSK,RCB,192,188,CSK,MA Chidambaram Stadium,2025-04-05
+6,KKR,MI,210,205,KKR,Eden Gardens,2025-04-06
+7,SRH,PBKS,165,160,SRH,Rajiv Gandhi Stadium,2025-04-07
+8,RR,DC,188,192,DC,Sawai Mansingh Stadium,2025-04-08
+9,MI,RCB,176,179,RCB,Wankhede Stadium,2025-04-09
+10,CSK,KKR,195,190,CSK,MA Chidambaram Stadium,2025-04-10
+11,DC,PBKS,182,185,PBKS,Arun Jaitley Stadium,2025-04-11
+12,SRH,RR,170,165,SRH,Rajiv Gandhi Stadium,2025-04-12
+13,RCB,CSK,205,202,RCB,M. Chinnaswamy Stadium,2025-04-13
+14,KKR,DC,198,195,KKR,Eden Gardens,2025-04-14
+15,MI,SRH,189,186,MI,Wankhede Stadium,2025-04-15
